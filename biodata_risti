@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Biodata Diri</title>
+    <style>
+        tr{
+            background-color: burlywood;
+            color: black;
+        }
+        body{
+            background-color: pink;
+        }
+        h1{
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center">Biodata Diri</h1>
+    <table width="745" border="1" cellspacing="7" cellpadding="5" align="center">
+        <tr align="center" bgcolor="pink">
+            <td width="174">Data Diri</td>
+            <td width="353">Keterangan</td>
+            <td width="232">Foto</td>
+        </tr>
+        <tr>
+            <td>Nama</td>
+            <td>Risti Nurfatiah</td>
+            <td rowspan="10" align="center"><img src="assets/img/WOWO.JPG.jpg" width="150px" height="150px"></td>
+        </tr>
+        <tr>
+            <td>Kelas</td>
+            <td>IX</td>
+        </tr>
+        <tr>
+            <td>Jurusan</td>
+            <td>Rekayasa Perangkat Lunak</td>
+        </tr>
+        <tr>
+            <td>Sekolah</td>
+            <td>Smk Jakarta Pusat 1</td>
+        </tr>
+        <tr>
+            <td>Jenis Kelamin</td>
+            <td>Perempuan</td>
+        </tr>
+        <tr>
+            <td>Tempat/Tanggal Lahir</td>
+            <td>Jakarta, 25 September 2003</td>
+        </tr>
+        <tr>
+            <td>Alamat</td>
+            <td>Jl KEBON JAHE KOBER 1 </td>
+        </tr>
+        <tr>
+            <td>Hobi</td>
+            <td>Berenang</td>
+        </tr>
+    </table>
+</body>
+</html>
